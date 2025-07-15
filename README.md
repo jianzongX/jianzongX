@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://t.alcy.cc/fj" alt="header" width="800" loading="lazy" />
-</p>
+
 
 
 ### 想找我就给咱发[邮件](mailto:18180960907@163.com)喵~
